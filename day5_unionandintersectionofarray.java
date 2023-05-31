@@ -3,6 +3,7 @@ import javax.lang.model.util.ElementScanner6;
 public class day5_unionandintersectionofarray {
     public static void main(String s[])
     {
+        //for sorted array
        union();
        intersection();
     }
